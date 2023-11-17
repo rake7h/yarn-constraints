@@ -1,0 +1,16 @@
+{
+  "name": "yarn-constraints",
+  "version": "0.0.1",
+  "description": "Some useful yarn constraints rules collection",
+  "main": "index.js",
+  "author": "Rakesh singh (hi@rake7h.com)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rake7h/yarn-constraints.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2"
+}
