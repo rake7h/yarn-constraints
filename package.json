@@ -1,9 +1,12 @@
 {
   "name": "yarn-constraints",
   "version": "0.0.1",
-  "description": "Some useful yarn constraints rules collection",
+  "description": "Some useful yarn constraints rules",
   "main": "index.js",
   "author": "Rakesh singh (hi@rake7h.com)",
+  "engines": {
+    "node": ">=18"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:rake7h/yarn-constraints.git"
