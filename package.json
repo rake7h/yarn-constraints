@@ -1,7 +1,7 @@
 {
   "name": "yarn-constraints",
   "version": "0.0.1",
-  "description": "Some useful yarn constraints rules collection",
+  "description": "Some useful yarn constraints rules",
   "main": "index.js",
   "author": "Rakesh singh (hi@rake7h.com)",
   "repository": {
